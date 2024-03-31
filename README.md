@@ -2,18 +2,18 @@
 
 In this project, we'll predict the price of the Nifty50 stock market index.
 
-##Project Steps
+#Project Steps
 
 Download data using the yfinance package
 Create an initial machine learning model and estimate accuracy
 Build a backtesting engine to more accurately measure accuracy
 Improve the accuracy of the model
 
-##File overview:
+#File overview:
 
 market_prediction.ipynb - a Jupyter notebook that contains all of the code.
 
-##Installation
+#Installation
 Python packages
 pandas
 yfinance
