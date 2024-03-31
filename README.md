@@ -11,7 +11,7 @@ Improve the accuracy of the model
 
 **File overview:**
 
-Stock - a Jupyter notebook that contains all of the code.
+StockPrice-Prediction - a Jupyter notebook that contains all of the code.
 
 **Installation**
 
