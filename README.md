@@ -18,4 +18,4 @@ StockPrice-Prediction - a Jupyter notebook that contains all of the code.
 Python packages
 pandas
 yfinance
-scikit-learn
+scikit-lear
