@@ -1,4 +1,4 @@
-# StockPrice-Prediction
+## StockPrice-Prediction
 
 In this project, we'll predict the price of the Nifty50 stock market index.
 
