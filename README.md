@@ -2,7 +2,7 @@
 
 In this project, we'll predict the price of the Nifty50 stock market index.
 
-**Project Steps**
+**Project Steps:**
 
 Download data using the yfinance package
 Create an initial machine learning model and estimate accuracy
