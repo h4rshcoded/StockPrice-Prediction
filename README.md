@@ -13,7 +13,7 @@ Improve the accuracy of the model.
 
 StockPrice-Prediction - a Jupyter notebook that contains all of the code.
 
-**Installation**
+**Installation:**
 
 Python packages
 pandas
